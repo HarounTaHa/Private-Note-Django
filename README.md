@@ -25,17 +25,7 @@
       <img src="https://github.com/HarounTaHa/Private-Note-Django/blob/master/screenshots/input_message.png"> </img>
     </td>
   </tr> 
-   
-  <tr>
-      <td> 
-           <img src="https://github.com/HarounTaHa/Private-Note-Django/blob/master/screenshots/link_message.png"> </img>
-      </td>
-  </tr> 
-  <tr>
-  <td>
-    <img src="https://github.com/HarounTaHa/Private-Note-Django/blob/master/screenshots/destroyed_message.png"></img>
-  </td>
-  </tr>
+
   
    
 </table>
